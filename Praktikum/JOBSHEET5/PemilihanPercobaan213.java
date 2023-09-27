@@ -23,7 +23,7 @@ public class PemilihanPercobaan213 {
 
         System.out.println("Nilai akhir + " + total + " Sehingga " + message);
 
-                
+        //kode modifikasinya        
         if (total >= 0 || total <= 100) {
             if (total >= 80 &&  total <= 100) {
                 System.out.println("Nilai A, Nilai Setara 4, Sangat Baik!");

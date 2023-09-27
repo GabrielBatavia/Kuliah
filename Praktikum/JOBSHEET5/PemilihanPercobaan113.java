@@ -18,6 +18,7 @@ public class PemilihanPercobaan113 {
             System.out.println("Angka "+angka+" bilangan ganjil");
         */
         
+        //kode modifikasinya
         String result = (angka % 2 == 0) ? "Angka "+angka+" bilangan genap" : "Angka "+angka+" bilangan ganjil";
         System.out.println(result);
     }
