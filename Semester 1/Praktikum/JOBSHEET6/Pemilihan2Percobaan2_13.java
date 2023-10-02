@@ -29,7 +29,7 @@ public class Pemilihan2Percobaan2_13 {
         } else if (sudut1 == sudut2 || sudut1 == sudut3 || sudut2 == sudut3){
             System.out.println("Segitiga Sama Kaki ");
         } else {
-            System.out.println("Bukan ketiga tipa segitiga");
+            System.out.println("Segitiga sembarang");
         }
     } else {
         System.out.println("Bukan segitiga");
